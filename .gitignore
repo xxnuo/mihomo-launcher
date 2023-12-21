@@ -1,0 +1,6 @@
+.idea
+
+cfs/root
+
+go.sum
+bin/mihomo-launcher-windows-amd64.exe
